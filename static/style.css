@@ -36,6 +36,15 @@ p, a, input {
 	width: 100%;
 }
 
+.form-control {
+	border-radius: 0px;
+	color: blue;
+}
+
+
+
+
+
 .stage-bg {
 	background: url('/static/img/bg3.png') no-repeat;
 	background-size: cover;
@@ -69,4 +78,17 @@ p, a, input {
 
 .text-gray {
 	color: #8c8c8c;
+}
+
+
+
+
+
+.sign-up-bg__text-container {
+	background-color: #fff;
+	height: auto;
+	min-height: 100vh;
+	color: blue;
+	display: flex;
+	align-items: center;
 }
